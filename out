@@ -1,0 +1,3914 @@
+[0 1 2 3 4]
+setting barracksSCV
+SCV BEING SELECTED
+   0/no_op                                              ()
+   1/move_camera                                        (1/minimap [64, 64])
+   2/select_point                                       (6/select_point_act [4]; 0/screen [84, 84])
+   3/select_rect                                        (7/select_add [2]; 0/screen [84, 84]; 2/screen2 [84, 84])
+   4/select_control_group                               (4/control_group_act [5]; 5/control_group_id [10])
+ 264/Harvest_Gather_screen                              (3/queued [2]; 0/screen [84, 84])
+ 451/Smart_screen                                       (3/queued [2]; 0/screen [84, 84])
+ 452/Smart_minimap                                      (3/queued [2]; 1/minimap [64, 64])
+[  0   1   2   3   4 264 451 452]
+setting barracksSCV
+[  0   1   2   3   4 264 451 452]
+setting supplyDepotSCV
+SCV BEING SELECTED
+[  0   1   2   3   4 264 451 452]
+setting supplyDepotSCV
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+ 269/Harvest_Return_quick                               (3/queued [2])
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+  91/Build_SupplyDepot_screen                           (3/queued [2]; 0/screen [84, 84])
+[  0   1   2   3   4 264 451 452  91]
+tryingt to construct supply depot
+SCV BEING SELECTED
+[  0   1   2   3   4 264 451 452  91]
+tryingt to construct supply depot
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+[  0   1   2   3   4 264 451 452  91]
+  42/Build_Barracks_screen                              (3/queued [2]; 0/screen [84, 84])
+[  0   1   2   3   4 264  42 451 452  91]
+COMMAND CENTER BEING SELECTED
+ 490/Train_SCV_quick                                    (3/queued [2])
+ 343/Rally_Workers_screen                               (3/queued [2]; 0/screen [84, 84])
+ 344/Rally_Workers_minimap                              (3/queued [2]; 1/minimap [64, 64])
+[  0   1   2   3   4 490 451 343 344 452]
+   6/select_idle_worker                                 (10/select_worker [4])
+  11/build_queue                                        (11/build_queue_id [10])
+[  0   1   2   3   4   6 490  11 451 343 344 452]
+[  0   1   2   3   4   6 264  42 451 452  91]
+moving idle workers
+('setting new supply depot location to: ', (8, 8))
+[  0   1   2   3   4 264 451 452  91]
+COMMAND CENTER BEING SELECTED
+[  0   1   2   3   4 490  11 451 343 344 452]
+[  0   1   2   3   4 490  11 451 343 344 452]
+COMMAND CENTER BEING SELECTED
+[  0   1   2   3   4 490  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4 490  11 451 343 344 452]
+COMMAND CENTER BEING SELECTED
+[  0   1   2   3   4 490  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4 490  11 451 343 344 452]
+COMMAND CENTER BEING SELECTED
+[  0   1   2   3   4 490  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4 490  11 451 343 344 452]
+COMMAND CENTER BEING SELECTED
+[  0   1   2   3   4 490  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4  11 451 343 344 452]
+Barracks ops: 
+[  0   1   2   3   4   6  11 451 343 344 452]
+[  0   1   2   3   4   6 264 451 452  91]
+moving idle workers
+('setting new supply depot location to: ', (16, 8))
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+SCV BEING SELECTED
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+[  0   1   2   3   4 264 269 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264 269 451 452  91]
+[  0   1   2   3   4   6 264 451 452  91]
+moving idle workers
+('setting new supply depot location to: ', (24, 8))
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 451 452  91]
+[  0   1   2   3   4   6 264  42 451 452  91]
+moving idle workers
+('setting new supply depot location to: ', (32, 8))
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 451 452  91]
+[  0   1   2   3   4   6 264  42 269 451 452  91]
+moving idle workers
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 269 451 452  91]
+[  0   1   2   3   4   6 264  42 451 452  91]
+moving idle workers
+('setting new supply depot location to: ', (40, 8))
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 451 452  91]
+[  0   1   2   3   4   6 264  42 451 452  91]
+moving idle workers
+('setting new supply depot location to: ', (48, 8))
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 451 452  91]
+[  0   1   2   3   4   6 264  42 269 451 452  91]
+moving idle workers
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 269 451 452  91]
+[  0   1   2   3   4   6 264  42 451 452  91]
+moving idle workers
+('setting new supply depot location to: ', (56, 8))
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 451 452  91]
+[  0   1   2   3   4   6 264  42 451 452  91]
+moving idle workers
+('setting new supply depot location to: ', (64, 8))
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 451 452  91]
+[  0   1   2   3   4   6 264  42 269 451 452  91]
+moving idle workers
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 269 451 452  91]
+[  0   1   2   3   4   6 264  42 451 452  91]
+moving idle workers
+('setting new supply depot location to: ', (72, 8))
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 451 452  91]
+[  0   1   2   3   4   6 264  42 451 452  91]
+moving idle workers
+('setting new supply depot location to: ', (80, 8))
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 451 452  91]
+[  0   1   2   3   4   6 264  42 451 452  91]
+moving idle workers
+('setting new supply depot location to: ', (8, 64))
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4 264  42 451 452  91]
+Barracks ops: 
+[  0   1   2   3   4   6 264  42 451 452  91]
+[  0   1   2   3   4   6 264  42 269 451 452  91]
+moving idle workers
+[  0   1   2   3   4 264  42 269 451 452  91]
+Barracks ops: 
+ 477/Train_Marine_quick                                 (3/queued [2])
+[  0   1   2   3   4 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[  0   1   2   3   4 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[  0   1   2   3   4 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[0 1 2 3 4]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[0 1 2 3 4]
+Barracks ops: 
+[0 1 2 3 4]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[0 1 2 3 4]
+Barracks ops: 
+[0 1 2 3 4]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[ 0  1  2  3  4 11]
+Barracks ops: 
+[0 1 2 3 4]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[ 0  1  2  3  4 11]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[  0   1   2   3   4 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[ 0  1  2  3  4 11]
+Barracks ops: 
+[0 1 2 3 4]
+Barracks ops: 
+[ 0  1  2  3  4 11]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[ 0  1  2  3  4 11]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[0 1 2 3 4]
+Barracks ops: 
+[0 1 2 3 4]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[0 1 2 3 4]
+Barracks ops: 
+[  0   1   2   3   4  11 477]
+[  0   1   2   3   4  11 477]
+Barracks ops: 
+[ 0  1  2  3  4 11]
+Barracks ops: 
+   7/select_army                                        (7/select_add [2])
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[  0   1   2   3   4   7  11 477]
+[  0   1   2   3   4   7  11 477]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[  0   1   2   3   4   7  11 477]
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[  0   1   2   3   4   7  11 477]
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[  0   1   2   3   4   7  11 477]
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[  0   1   2   3   4   7  11 477]
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[0 1 2 3 4 7]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[0 1 2 3 4 7]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[0 1 2 3 4 7]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[0 1 2 3 4 6 7]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7 477]
+[  0   1   2   3   4   6   7  11 477]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+Barracks ops: 
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[  0   1   2   3   4   6   7  11 477]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[ 0  1  2  3  4  6  7 11]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+[0 1 2 3 4]
+Took 65.486 seconds for 2458 steps: 37.535 fps
